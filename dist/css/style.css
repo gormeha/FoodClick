@@ -354,7 +354,7 @@ body {
   .recipe__info-icon {
     height: 2rem;
     width: 2rem;
-    fill: #F59A83;
+    fill: rgb(4, 88, 94);
     margin-right: 1rem; }
   .recipe__info-data {
     margin-right: .4rem;
